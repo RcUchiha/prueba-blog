@@ -15,6 +15,9 @@
       window.$docsify = {
         name: 'prueba-blog',          // Nombre del proyecto
         loadSidebar: true,            // Activar la carga del archivo _sidebar.md
+        alias: {
+  '/.*/_sidebar.md': '/_sidebar.md'
+}
         subMaxLevel: 2,               // Nivel de submenús en el sidebar
         repo: ''                      // Enlace al repositorio (dejar vacío si no se desea)
       };
