@@ -1,4 +1,4 @@
 - [Inicio](README.md)
 
 - **Aegisub**
-  - [Ass Foundation](Assf.md)
+  - [Ass Foundation](docs/Assf.md)
